@@ -31,7 +31,6 @@ Transformando café em testes automatizados e garantindo que o "na minha máquin
 ---
 
 ## 📫 Vamos nos conectar?
-## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrio-lopes-5206143a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriolopes__)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriolopes@proton.me)
