@@ -1,5 +1,5 @@
 ### 🎯"Olá, Me chamo Adrio Lopes. 👨🏻‍💻
-Transformando café em testes automatizados e garantindo que o 'na minha máquina funciona' não chegue ao usuário final.
+Transformando café em testes automatizados e garantindo que o "na minha máquina funciona" não chegue ao usuário final.
 
 ---
 ## 🛠️ Tecnologias e Linguagens
