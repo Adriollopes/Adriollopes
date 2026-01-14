@@ -1,5 +1,5 @@
 ### 🎯"Olá, Me chamo Adrio Lopes. 👨🏻‍💻
-Apaixonado por qualidade de software e automação, focado em encontrar bugs antes que eles se tornem problemas e em entregar código de confiança.
+Transformando café em testes automatizados e garantindo que o 'na minha máquina funciona' não chegue ao usuário final.
 
 ---
 ## 🛠️ Tecnologias e Linguagens
