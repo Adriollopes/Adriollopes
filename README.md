@@ -1,5 +1,5 @@
 ### 🎯"Olá, Me chamo Adrio Lopes. 👨🏻‍💻
-Analista de QA Júnior focado em automação e metodologias ágeis. Transformo café em testes e bugs em soluções."
+Apaixonado por qualidade de software e automação, focado em encontrar bugs antes que eles se tornem problemas e em entregar código de confiança.
 
 ---
 ## 🛠️ Tecnologias e Linguagens
